@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "authors": [
+        "SolidNebula28891"
+    ],
+    "environment": "*",
+    "id": "multiverse",
+    "version": "1.0.0",
+    "name": "Palladium Multiverses",
+    "description": "This mod will have many superpowers",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}

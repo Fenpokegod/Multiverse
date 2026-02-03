@@ -1,0 +1,21 @@
+modLoader="lowcodefml"
+showAsResourcePack = false
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="multiverse"
+version="1.0.0"
+logoFile = "logo.png"
+logoBlur = false
+displayName="Palladium Multiverses"
+description='''
+This mod will have many superpowers
+'''
+
+[[dependencies.multiverse]]
+modId = "palladium"
+mandatory = true
+versionRange = "[4.4.2,)"
+ordering = "NONE"
+side = "BOTH"

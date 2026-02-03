@@ -1,0 +1,32 @@
+{
+    "name": "Electricity",
+    "persistent_data": true,
+    "background": "minecraft:textures/block/white_wool.png",
+    "icon": "minecraft:lighting_rod",
+    "gui_display_type": "tree",
+    "abilities": {
+        "Electricity": {
+        "type": "palladium:dummy",
+        "icon": "minecraft:blaze_rod",
+        "title": "Test",
+        "bar_color": "light_gray",
+        "hidden": false,
+        "hidden_in_bar": false,
+        "list_index": -1,
+        "gui_position": "null",
+        "description": "test1",
+        "conditions": {
+            "enabling": [
+                                {
+                                    "type": "palladium:action",
+                                    "cooldown": 0,
+                                    "key_type": "key_bind",
+                                    "needs_empty_hand": false,
+                                    "allow_scrolling_when_crouching": true
+                                }
+            ],
+            "unlocking": []
+        }
+    }
+    }
+}

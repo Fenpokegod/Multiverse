@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "id": "multiverse",
+        "pack_format": 15,
+        "description": "This mod will have many superpowers",
+        "version": "1.0.0"
+    },
+    "dependencies": {
+        "common": {},
+        "fabric": {},
+        "forge": {}
+    }
+}
